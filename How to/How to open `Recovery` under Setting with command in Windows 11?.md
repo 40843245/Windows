@@ -8,7 +8,7 @@ start ms-settings:recovery
 
 Then, it will open System -> Recovery under Settings. Shown as follows.
 
-<img width="1279" alt="image" src="https://github.com/user-attachments/assets/080726ed-1cf2-49ac-b60c-bd1e93e93f14" />
+<img width="1275" alt="image" src="https://github.com/user-attachments/assets/de18b149-2081-4123-8fb7-1b4d5d07cdf3" />
 
 ### Demo
 See [`How to open `Recovery` under Setting with command in Windows 11?`](https://youtu.be/oUoEhGO9bOc)

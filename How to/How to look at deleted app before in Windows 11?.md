@@ -17,3 +17,10 @@ Just follow these steps.
 
 > [!WARNING]
 > It is expermental in Windows 11.
+
+## demo
+See [`How to find deleted app through Microsoft store in Windows 11? (without clipped version)`](https://youtu.be/XnULx9QGZx8)
+
+## reference
+### guide reference
+Stated in Microsoft official docs -- [`Windows 應用程式還原：將應用程式的價值最大化`](https://learn.microsoft.com/zh-tw/windows/apps/develop/windows-app-restore)
